@@ -2,11 +2,11 @@
 
 🎯 Objective
 
-These projects demonstrate my ability to work with real-world datasets, perform analytical problem-solving, and present insights through visually compelling dashboards as an Aspiring Data Analyst with hands-on experience in business intelligence and reporting.
+These projects illustrate my ability to deal with real-world datasets, execute analytical problem-solving, and communicate findings through visually attractive dashboards as an Aspiring Data Analyst with hands-on expertise in business intelligence and reporting.
 
 🚀 About My Data Analytics Projects
 
-I have developed multiple end-to-end Data Analytics Dashboard projects using Excel, SQL, Power BI, Tableau, and Python. These projects involve data cleaning, transformation, KPI analysis, and interactive dashboard development to generate actionable business insights.
+I've created many end-to-end Data Analytics Dashboard projects with Excel, SQL, Power BI, Tableau, and Python. These projects include data cleansing, transformation, KPI analysis, and the creation of interactive dashboards to deliver actionable business insights.
 
 🔹 Projects Included
 
