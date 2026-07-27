@@ -10,6 +10,8 @@ I've created many end-to-end Data Analytics Dashboard projects with Excel, SQL, 
 
 🔹 Projects Included
 
+Banking Churn Analysis Dashboard - Analyzed banking customer data to uncover churn patterns, track key KPIs, and build interactive dashboards.
+
 HR Attrition Dashboard – Analyzed employee turnover trends, attrition rate, department-wise attrition, and workforce demographics.
 
 Netflix Content Analysis Dashboard – Explored content distribution by genre, country, release year, ratings, and movie vs TV show trends.
